@@ -1,5 +1,5 @@
 ---
-title: "sample1"
+title: "sample1" 
 author: "박찬엽"
 date: "2017년 5월 25일"
 output: 
